@@ -1,3 +1,13 @@
 API key:818H7Z8UKSuoqNIrABqmfSthdwxIxp8CeyhfzHE49nqr
 
 https://api.us-south.language-translator.watson.cloud.ibm.com/instances/369e6dd7-c2bc-4601-b38d-ea13766dc2c7
+
+
+{
+  "apikey": "yb_KBUpsiR9ISjiHpnmphsicwz4Z9TptgvH1oVOAxMqW",
+  "iam_apikey_description": "Auto-generated for key crn:v1:bluemix:public:speech-to-text:eu-gb:a/0cbf685b22a4405fabdf6d65b468da1c:13ba84f9-00b0-4e24-b842-09fb9a21e9d8:resource-key:24e723d4-67a2-4bfd-a37a-407af56bc26b",
+  "iam_apikey_name": "Auto-generated service credentials",
+  "iam_role_crn": "crn:v1:bluemix:public:iam::::serviceRole:Manager",
+  "iam_serviceid_crn": "crn:v1:bluemix:public:iam-identity::a/0cbf685b22a4405fabdf6d65b468da1c::serviceid:ServiceId-deb0e0e2-cf74-410d-8c33-fdbd03b7937b",
+  "url": "https://api.eu-gb.speech-to-text.watson.cloud.ibm.com/instances/13ba84f9-00b0-4e24-b842-09fb9a21e9d8"
+}
